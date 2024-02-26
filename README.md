@@ -1,5 +1,11 @@
 # EJERCICIO BANDA MUSICAL
+## Integrantes
 - Laura Paez 20232020055
+- Julian Forero Bernal 20232020030
+- David Sanchez Acero 20232020049
+ 
+## Descripcion:
 
-
-![alt text](image.png)
+## Diagramas:
+__Clases:__
+![Diagrama de clases](out/clases/clases.png)
