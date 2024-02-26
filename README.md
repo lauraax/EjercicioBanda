@@ -8,4 +8,5 @@
 
 ## Diagramas:
 __Clases:__
-![Diagrama de clases](out/clases/clases.png)
+
+![Diagrama clases](out/clases/banda.png)
